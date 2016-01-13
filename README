@@ -1,0 +1,6 @@
+Answers my own question of which primes are of the form 4n+1
+
+This includes a python, python with sqlite database, c/c++, and java implementations of a simple/slow algorithm for finding prime numbers.
+
+**Note **
+This always skips 2, by design
